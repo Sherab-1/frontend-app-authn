@@ -1,5 +1,5 @@
 export TRANSIFEX_RESOURCE = frontend-app-authn
-transifex_langs = "ar,fr,es_419,zh_CN,it_IT,pt_PT,de_DE,uk,ru,hi"
+transifex_langs = "ar,fr,es_419,zh_CN,it_IT,pt_PT,de_DE,uk,ru,bo,hi"
 
 transifex_utils = ./node_modules/.bin/transifex-utils.js
 i18n = ./src/i18n
